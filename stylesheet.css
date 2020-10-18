@@ -69,17 +69,17 @@ h1 {
 	font-weight: 500;
 	font-weight: bold;
 	font-size: 84px;
-	color: #F9D342;
+	color: #292826;
 }
 
 #front {
 	background-color: #F9D342;
 	border-bottom:1px;
 	border-style: solid;
-	border-color: #292826;
+	border-color: black;
 	display: flex;
-	background-image: url("images/RandomPicture.jpg");
-	background-position: center;
+	background-image: #292826;
+	background-position: #F9D342;
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 100vh;
