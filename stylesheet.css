@@ -97,7 +97,7 @@ h1 {
 }
 
 #about p {
-	max-width: 50%;
+	max-width: 80%;
     width: 1000px;
     margin: 0 auto;
     padding: 20;
@@ -148,7 +148,7 @@ h1 {
 }
 
 #future p {
-	max-width: 50%;
+	max-width: 80%;
     width: 1000px;
     margin: 0 auto;
     padding: 20;
